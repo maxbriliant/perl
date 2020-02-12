@@ -1,5 +1,4 @@
-[![Actions Status](https://github.com/ruby/ruby/workflows/macOS/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"macOS")
-[![Build status](https://ci.appveyor.com/api/projects/status/0sy8rrxut4o0k960/branch/master?svg=true)](https://ci.appveyor.com/project/ruby/ruby/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/0sy8rrxut4o0k960/branch/master?svg=true)](https://stallman.org/)
 
 <div class="image">
     <h2>Welcome to my Ruby Page</h2>
