@@ -3,7 +3,7 @@
 
 <div class="image">
     <h2>Welcome on my Ruby Page</h2>
-    <img src="https://www.iconfinder.com/icons/4691330/download/png/512" style="width:42px;height:42px;border:3;"/>
+    <img src="https://alternative.me/icons/gnu-make.png" style="width:42px;height:42px;border:3;"/>
 </div>
 
 <br /> 
