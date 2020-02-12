@@ -2,8 +2,8 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/0sy8rrxut4o0k960/branch/master?svg=true)](https://ci.appveyor.com/project/ruby/ruby/branch/master)
 
 <div class="image">
-    <h2>Welcome on my Ruby Page</h2>
-    <img src="https://alternative.me/icons/gnu-make.png" style="width:42px;height:42px;border:3;"/>
+    <h2>Welcome to my Ruby Page</h2>
+    <a href="https://wiki.gentoo.org/wiki/Main_Page"><img src="https://alternative.me/icons/gnu-make.png" style="width:42px;height:42px;border:3;"/>
 </div>
 
 <br /> 
