@@ -1,6 +1,5 @@
 [![Actions Status](https://www.iconfinder.com/icons/4691330/download/png/512)](https://stallman.org)
-
-[![Actions Status](https://peach.smartart.it/images/vector/2004-11-23-larry_the_cow-head.svg)](https://wiki.gentoo.org/wiki/Main_Page)
+(https://wiki.gentoo.org/wiki/Main_Page)
 
 <table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Maksimoto Yukihiro<br>Маси-мото Юкихиро</div></th></tr><tr><td colspan="2" style="text-align:center;font-size:125%; font-weight:bold;"><div class="nickname">辉煌 敬意 
 </div></td></tr><tr>
