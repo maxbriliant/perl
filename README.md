@@ -1,4 +1,4 @@
-<center>[![Actions Status](https://www.iconfinder.com/icons/4691330/download/png/512)](https://stallman.org)
+[![Actions Status](<center>https://www.iconfinder.com/icons/4691330/download/png/512)](https://stallman.org)
 (https://wiki.gentoo.org/wiki/Main_Page)
 
 
