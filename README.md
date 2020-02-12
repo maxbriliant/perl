@@ -3,7 +3,8 @@
 [![Actions Status](https://github.com/ruby/ruby/workflows/Ubuntu/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"Ubuntu")
 [![Actions Status](https://github.com/ruby/ruby/workflows/Windows/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"Windows")
 
-<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Yukihiro Maksimoto<br>Юкихиро Маси-мото</div></th></tr><tr><td colspan="2" style="text-align:center;font-size:125%; font-weight:bold;"><div class="nickname">松本 行弘</div></td></tr><tr>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Maksimoto Yukihiro<br>Маси-мото Юкихиро</div></th></tr><tr><td colspan="2" style="text-align:center;font-size:125%; font-weight:bold;"><div class="nickname">辉煌 敬意 
+</div></td></tr><tr>
 
 <td colspan="2" style="text-align:center">
 <a href="" 
