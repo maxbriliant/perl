@@ -1,11 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/0sy8rrxut4o0k960/branch/master?svg=true)](https://stallman.org/)
 
-<div class="image">
-    <h2>Welcome to my Ruby Page</h2>
-    <br /> 
-    <a href="https://wiki.gentoo.org/wiki/Main_Page"><img src="https://alternative.me/icons/gnu-make.png" style="width:75px;height:75px;border:3;"/></a>
-</div>
-
 <br /> 
 <br /> 
 
@@ -23,7 +17,11 @@
 </div></td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1994-04-05</span>) </span>May 4. 1994<span class="noprint ForceAgeToShow"> (age&nbsp;23)</span><br><div style="display:inline" class="birthplace"><a href="https://pl.wikipedia.org/wiki/Malina_(ro%C5%9Blina)" title="Malinvoka">Malinovka</a>, China</div></td></tr><tr><th scope="row">Nationality</th><td class="category">German</td></tr><tr><th scope="row">Nick&nbsp;name</th><td class="nickname">Makz</td></tr><tr><th scope="row">Occupation</th><td class="role">Computer scientist, programmer, Student</td></tr><tr><th scope="row">Known&nbsp;for</th><td><a href="https://wiki.gentoo.org/wiki/Main_Page" title="Gentoo">Gentoo</a></td></tr><tr></tr></tbody></table></td>
 </center>
 
-
+<div class="image">
+    <h2>Welcome to my Ruby Page</h2>
+    <br /> 
+    <a href="https://wiki.gentoo.org/wiki/Main_Page"><img src="https://alternative.me/icons/gnu-make.png" style="width:75px;height:75px;border:3;"/></a>
+</div>
 
 <br /> 
 
