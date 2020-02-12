@@ -1,5 +1,5 @@
-[![Actions Status](https://github.com/ruby/ruby/workflows/MJIT/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"MJIT")
-[![Actions Status](https://github.com/ruby/ruby/workflows/Windows/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"Windows")
+[![Actions Status](https://github.com/ruby/ruby/workflows/MJIT/badge.svg)](https://wiki.gentoo.org/wiki/Main_Page)
+[![Actions Status](https://github.com/ruby/ruby/workflows/Windows/badge.svg)](https://www.archlinux.org/)
 
 <table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Maksimoto Yukihiro<br>Маси-мото Юкихиро</div></th></tr><tr><td colspan="2" style="text-align:center;font-size:125%; font-weight:bold;"><div class="nickname">辉煌 敬意 
 </div></td></tr><tr>
