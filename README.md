@@ -3,7 +3,8 @@
 
 <div class="image">
     <h2>Welcome to my Ruby Page</h2>
-    <a href="https://wiki.gentoo.org/wiki/Main_Page"><img src="https://alternative.me/icons/gnu-make.png" style="width:42px;height:42px;border:3;"/>
+    <br /> 
+    <a href="https://wiki.gentoo.org/wiki/Main_Page"><img src="https://alternative.me/icons/gnu-make.png" style="width:42px;height:42px;border:3;"/></a>
 </div>
 
 <br /> 
