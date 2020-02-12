@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/ruby/ruby/workflows/Windows/badge.svg)](https://getfedora.org/)
+[![Actions Status](https://github.com/ruby/ruby/workflows/Windows/badge.svg)](https://docs.fedoraproject.org/en-US/fedora/f31/install-guide/)
 [![Actions Status](https://github.com/ruby/ruby/workflows/Windows/badge.svg)](https://stallman.org)
 [![Actions Status](https://github.com/ruby/ruby/workflows/MJIT/badge.svg)](https://wiki.gentoo.org/wiki/Main_Page)
 
