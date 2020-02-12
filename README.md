@@ -1,4 +1,4 @@
-<img src="]https://www.iconfinder.com/icons/4691330/download/png/512" style="width:52px;height:52px;"><img src="]https://ucarecdn.com/fc0ddcef-ce9a-42bd-b27b-c45de6123dfc/" style="width:52px;height:52px;"><img src="]https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Antu_distributor-logo-gentoo.svg/768px-Antu_distributor-logo-gentoo.svg.png" style="width:52px;height:52px;">
+<img src="]https://www.iconfinder.com/icons/4691330/download/png/512" style="width:48px;height:48px;"><img src="]https://ucarecdn.com/fc0ddcef-ce9a-42bd-b27b-c45de6123dfc/" style="width:48px;height:48px;"><img src="]https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Antu_distributor-logo-gentoo.svg/768px-Antu_distributor-logo-gentoo.svg.png" style="width:48px;height:48px;">
 
 
 <table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Maksimoto Yukihiro<br>Маси-мото Юкихиро</div></th></tr><tr><td colspan="2" style="text-align:center;font-size:125%; font-weight:bold;"><div class="nickname">辉煌 敬意 
