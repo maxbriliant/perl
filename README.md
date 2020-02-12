@@ -4,6 +4,9 @@
 <table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Maksimoto Yukihiro<br>Маси-мото Юкихиро</div></th></tr><tr><td colspan="2" style="text-align:center;font-size:125%; font-weight:bold;"><div class="nickname">辉煌 敬意 
 </div></td></tr><tr>
 
+
+
+
 <td colspan="2" style="text-align:center">
 <a href="" 
 <class="image"><img alt="https://ih1.redbubble.net/image.74043243.5885/flat,800x800,075,f.jpg" src="https://ih1.redbubble.net/image.74043243.5885/flat,800x800,075,f.jpg" decoding="async" width="" height="" srcset="https://ih1.redbubble.net/image.74043243.5885/flat,800x800,075,f.jpg" data-file-width="500" data-file-height="680"></a>
