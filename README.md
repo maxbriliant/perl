@@ -1,8 +1,9 @@
+[![Actions Status](https://github.com/ruby/ruby/workflows/macOS/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"macOS")
+[![Build status](https://ci.appveyor.com/api/projects/status/0sy8rrxut4o0k960/branch/master?svg=true)](https://ci.appveyor.com/project/ruby/ruby/branch/master)
+
 <div class="image">
     <h2>Welcome on my Ruby Page</h2>
     <img src="https://www.iconfinder.com/icons/4691330/download/png/512" style="width:42px;height:42px;border:3;"/>
-    <img src="https://ucarecdn.com/fc0ddcef-ce9a-42bd-b27b-c45de6123dfc/" style="width:42px;height:42px;border:3;"/>
-    <img src="https://www.easyicon.net/api/resizeApi.php?id=540447&size=72" style="width:200px;height:200px;border:0;"/>
 </div>
 
 
