@@ -3,8 +3,8 @@
 <br /> 
 <br /> 
 
-<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Maksim Yukihiro<br>Маси-мото Юкихиро</div></th></tr><tr><td colspan="2" style="text-align:center;font-size:125%; font-weight:bold;"><center><div class="nickname">辉煌 
-    </div></center></td></tr><tr>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Maksim Yukihiro<br>Маси-мото Юкихиро</div></th></tr><tr><td colspan="2" style="text-align:center;font-size:125%; font-weight:bold;"><center><div class="nickname">显赫  
+    </div></td></tr><tr>
 
 
 
