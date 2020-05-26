@@ -20,3 +20,5 @@ my $pathSleep = '/lib/systemd/system-sleep/dis';
 #`echo "#!/usr/bin/bash\n/usr/bin/dis" > $path`;
 #`echo "#!/usr/bin/bash\n/usr/bin/dis" > `;
 
+#TODO
+#Learn DisplayManager or Underlying xorg
