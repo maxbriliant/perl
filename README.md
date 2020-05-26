@@ -23,7 +23,7 @@
     <br />
     <h2>Following Ruby</h2>
     <br /> 
-    <a href="https://wiki.gentoo.org/wiki/Main_Page"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/1200px-Heckert_GNU_white.svg.png" style="width:75px;height:75px;border:3;"/></a>
+    <a href="https://wiki.gentoo.org/wiki/Main_Page"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/1200px-Heckert_GNU_white.svg.png" style=" width="340" height="240" ;border:3;"/></a>
 </div>
 
 <br /> 
