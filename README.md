@@ -31,6 +31,9 @@
 <div style="text-align: right"><a href="https://thepracticaldev.s3.amazonaws.com/i/r4ezmdl8gnv45aahl987.png">
 <class="image"><img alt="https://thepracticaldev.s3.amazonaws.com/i/r4ezmdl8gnv45aahl987.png" src="https://thepracticaldev.s3.amazonaws.com/i/r4ezmdl8gnv45aahl987.png" decoding="async" width="340" height="240" srcset="https://thepracticaldev.s3.amazonaws.com/i/r4ezmdl8gnv45aahl987.png" data-file-width="600" data-file-height="240"></a>
 
+ <br />
+    <br />
+    <h2>Enjoy some Beautiful Gems</h2>
 
 Ruby is an interpreted object-oriented programming language often
 used for web development. It also offers many scripting features
