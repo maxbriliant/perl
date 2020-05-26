@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 #wifiCollect.pl
+#MxBit2020
 
 #use strict;
 use feature 'say';
@@ -18,7 +19,5 @@ foreach (@essidDirty) {
 }
 
 chomp @essid;
-
 for (0..$#essid) {@essid[$_] = split '\n', $	essid[$_]}
-
 say for @essid;
