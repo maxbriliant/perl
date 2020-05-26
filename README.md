@@ -10,7 +10,7 @@
 
 
 <td colspan="2" style="text-align:center">
-<a href="https://www.google.com/search?q=libreboot+&tbm=isch&ved=2ahUKEwj-9IaGxMvnAhXVe1AKHSMjA7sQ2-cCegQIABAA&oq=libreboot+&gs_l=img.3..35i39l2j0l3j0i30j0i24l4.2856476.2856476..2856985...0.0..0.88.88.1......0....1..gws-wiz-img.D__ysBSA_ek&ei=uK5DXv64CtX3wQKjxozYCw&bih=927&biw=1920&safe=active" 
+<a href="https://www.gnu.org/graphics/umsa/gnu-tux.png" 
 <class="image"><img alt="https://ih1.redbubble.net/image.74043243.5885/flat,800x800,075,f.jpg" src="https://ih1.redbubble.net/image.74043243.5885/flat,800x800,075,f.jpg" decoding="async" width="" height="" srcset="https://ih1.redbubble.net/image.74043243.5885/flat,800x800,075,f.jpg" data-file-width="500" data-file-height="680"></a>
 
 
