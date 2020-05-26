@@ -3,7 +3,7 @@
 <br /> 
 <br /> 
 
-<h2><table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Makz Briliant<br>Макси-мотa Брюки-Хиро 🐧</div></th></tr><tr><td colspan="2" style="text-align:center;font-size:125%; font-weight:bold;"><center><div style="text-align: center" class="nickname">显赫  
+<h2><table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">💎 Makz Briliant<br>Макси-мотa Брюки-Хиро 🐧</div></th></tr><tr><td colspan="2" style="text-align:center;font-size:125%; font-weight:bold;"><center><div style="text-align: center" class="nickname">显赫  
     </div></td></tr><tr></h2>
 
 
