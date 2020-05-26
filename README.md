@@ -11,7 +11,7 @@
 
 <td colspan="2" style="text-align:center">
 <a href="https://www.gnu.org/graphics/umsa/gnu-tux.png" 
-<class="image"><img alt="https://ih1.redbubble.net/image.74043243.5885/flat,800x800,075,f.jpg" src="https://ih1.redbubble.net/image.74043243.5885/flat,800x800,075,f.jpg" decoding="async" width="" height="" srcset="https://ih1.redbubble.net/image.74043243.5885/flat,800x800,075,f.jpg" data-file-width="500" data-file-height="680"></a>
+<class="image"><img alt="https://ih1.redbubble.net/image.74043243.5885/flat,800x800,075,f.jpg" src="https://i.pinimg.com/564x/7c/63/9b/7c639ba58ffd4c9976320ca316f87a51.jpg" decoding="async" width="" height="" srcset="https://ih1.redbubble.net/image.74043243.5885/flat,800x800,075,f.jpg" data-file-width="500" data-file-height="680"></a>
 
 
 </div></td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1994-04-05</span>) </span>May 4. 1994<span class="noprint ForceAgeToShow"> (age&nbsp;23)</span><br><div style="display:inline" class="birthplace"><a href="https://pl.wikipedia.org/wiki/Malina_(ro%C5%9Blina)" title="Malinvoka">Malinovka</a>, China</div></td></tr><tr><th scope="row">Nationality</th><td class="category">German</td></tr><tr><th scope="row">Nick&nbsp;name</th><td class="nickname">Maks</td></tr><tr><th scope="row">Occupation</th><td class="role">Computer Scientist, Programmer, Student</td></tr><tr><th scope="row">Known&nbsp;for</th><td><a href="https://wiki.gentoo.org/wiki/Main_Page" title="Gentoo">Gentoo</a></td></tr><tr></tr></tbody></table></td>
