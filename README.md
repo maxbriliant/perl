@@ -18,7 +18,7 @@
 </center>
 
 <div class="image">
-    <h2>Welcome to my Ruby Page</h2>
+    <h2>Following some Rubys</h2>
     <br /> 
     <a href="https://wiki.gentoo.org/wiki/Main_Page"><img src="https://alternative.me/icons/gnu-make.png" style="width:75px;height:75px;border:3;"/></a>
 </div>
