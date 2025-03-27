@@ -8,11 +8,15 @@
 
 
 
-
 <td colspan="2" style="text-align:center">
-<a href="https://www.gnu.org/graphics/umsa/gnu-tux.png" 
-<class="image"><img alt="https://ih1.redbubble.net/image.74043243.5885/flat,800x800,075,f.jpg" src="https://scontent-dus1-1.xx.fbcdn.net/v/t1.0-9/100538807_1402532880135894_6301619833947553792_n.jpg?_nc_cat=107&_nc_sid=8024bb&_nc_eui2=AeHzKsgJDNnyhuWKL0KX7vHbWzFifRTE92JbMWJ9FMT3YmKR9EA7uDHImn0U9lA8scz47PrSuJrZc8Z02G2c-Xkv&_nc_ohc=Gv-dyuqAH3EAX8hVnOp&_nc_ht=scontent-dus1-1.xx&oh=6489282329002201ce6cc55db8678d55&oe=5EF26835" decoding="async" width="" height="" srcset="https://ih1.redbubble.net/image.74043243.5885/flat,800x800,075,f.jpg" data-file-width="500" data-file-height="680"></a>
-
+    <a href="https://www.gnu.org/graphics/umsa/gnu-tux.png">
+        <img alt="GNU-Tux" 
+             src="https://www.gnu.org/graphics/umsa/gnu-tux.png" 
+             decoding="async" 
+             width="500" 
+             height="680">
+    </a>
+</td>
 
 </div></td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1992-29-05</span>) </span>May 4. 1994<span class="noprint ForceAgeToShow"> (age&nbsp;23)</span><br><div style="display:inline" class="birthplace"><a href="https://pl.wikipedia.org/wiki/Malina_(ro%C5%9Blina)" title="Malinvoka">Malinovka</a>, Zelinograd</div></td></tr><tr><th scope="row">Nationality</th><td class="category">German</td></tr><tr><th scope="row">Nick&nbsp;name</th><td class="nickname">Maks</td></tr><tr><th scope="row">Occupation</th><td class="role">Computer Scientist, Programmer, Student</td></tr><tr><th scope="row">Known&nbsp;for</th><td><a href="https://wiki.gentoo.org/wiki/Main_Page" title="Gentoo">Gentoo</a></td></tr><tr></tr></tbody></table></td>
 </center>
