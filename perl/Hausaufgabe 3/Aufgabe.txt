@@ -1,0 +1,11 @@
+Aufgabe: Dateiverarbeitung und Manipulation
+
+Erstelle ein Perl-Skript, das eine Textdatei einliest, Wörter durch ein anderes Wort ersetzt und die bearbeitete Version in eine neue Datei schreibt.
+
+Implementiere eine Funktion, die die Länge der Sätze in der Datei analysiert und die durchschnittliche Satzlänge berechnet.
+
+Das Skript sollte dem Benutzer die Möglichkeit geben, das Wort auszuwählen, durch das alle Vorkommen ersetzt werden sollen.
+
+Die durchschnittliche Satzlänge sollte auf zwei Dezimalstellen genau berechnet und ausgegeben werden.
+
+Kommentiere den Code ausführlich, damit andere Entwickler oder du selbst später leicht verstehen können, was der Code macht.

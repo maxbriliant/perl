@@ -1,0 +1,123 @@
+#!/usr/binss/perl
+use strict;
+use warnings;
+use Term::ReadKey;
+use Term::ANSIColor;
+use Time::HiRes qw(usleep);
+use feature "say";
+use String::ShellQuote;
+use Time::Piece;
+
+my $filepath = $ARGV[0];
+my ($file_name) = $filepath =~ m{[\\/]?([^\\/]+)\.\w+$};
+$filepath = shell_quote($filepath);
+system("paplay $filepath &");
+my $current_time = 1;
+my $is_playing = 1;
+my $length = 0;
+my @pids = `pgrep paplay`;
+chomp @pids;
+
+ReadMode 4; # Turn off controls keys
+
+sub decode_time {
+    eval {
+        `rm /tmp/ffmpeg.tmp`;
+        `touch /tmp/ffmpeg.tmp`;
+    };
+
+    my $ffmpeg_cmd = "ffmpeg -i $filepath -f null - >> /tmp/ffmpeg.tmp 2>&1 > /dev/null && cat /tmp/ffmpeg.tmp | grep Duration | awk -F ' ' '{print \$2}' &";
+    $length = `$ffmpeg_cmd`;
+    chomp($length);
+    chop($length);
+
+    my ($h, $m, $s) = split /:/, $length;
+    my $total_seconds = $h * 3600 + $m * 60 + $s;
+    $length = sprintf("%02d:%02d", int($total_seconds / 60), $total_seconds % 60);
+}
+
+sub handle_key_press {
+    my ($key, @pids) = @_;
+
+    if ($key =~ /[qQ]/) {
+        system("pkill paplay");
+        ReadMode 0;
+        exit;
+    } elsif ($key =~ /[sS ]/) {
+        if ($is_playing) {
+            system("kill -SIGSTOP @pids");
+            $is_playing = 0;
+        } else {
+            system("kill -SIGCONT @pids");
+            $is_playing = 1;
+
+            $current_time++;
+
+            # Add Refresh for missing Second on Stop
+            my $current_time_min = int($current_time / 60);
+            my $current_time_sec = $current_time % 60;
+            my $formatted_time = sprintf("%02d:%02d", $current_time_min, $current_time_sec);
+
+            refresh($formatted_time);
+            usleep(1_000_000);
+            refresh($formatted_time);
+            $current_time++;
+            refresh($formatted_time);
+        }
+    }
+}
+
+sub refresh {
+    my ($formatted_time) = @_;
+
+    # Clear screen
+    print "\033[2J\033[1;1H";
+
+    # Print the changing variable with color (optional)
+    pre_print();
+
+    say "";
+    print colored("Playing: $file_name", 'yellow');
+    print colored("\nTime:\t $formatted_time", 'yellow');
+    print colored("\nLength:\t $length", 'yellow');
+    say "";
+}
+
+sub pre_print {
+    say "";
+    say "Audio Player Controls:";
+    say "STOP/PLAY - S";
+    say "QUIT \t  - Q";
+}
+
+## Main Programm Loop
+decode_time();
+
+while (1) {
+    if (defined(my $key = ReadKey(-1))) {
+        handle_key_press($key, @pids);
+    }
+
+    if ($is_playing) {
+        $current_time++;
+    }
+
+    my $formatted_time = Time::Piece->strptime($current_time, "%s")->strftime("%M:%S");
+
+    # Clear screen
+    print "\033[2J\033[1;1H";
+
+    # Print the changing variable with color (optional)
+    pre_print();
+    say "";
+    print colored("Playing: $file_name", 'yellow');
+    print colored("\nTime:\t $formatted_time", 'yellow');
+    print colored("\nLength:\t $length", 'yellow');
+    say "";
+
+    # Sleep for one second
+    usleep(1_000_000);
+}
+
+say "";
+ReadMode 0; # Reset tty mode before exiting

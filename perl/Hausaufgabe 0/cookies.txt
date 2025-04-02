@@ -1,0 +1,6 @@
+#LWP-Cookies-1.0
+Set-Cookie3: ECFG="a=1:as=1:cs=0:dt=pc:f=i:fr=0:fs=1:l=en:lt=1701463211264:mc=de-de:nf=1:nt=0:pz=0:t=1:tt=:tu=auto:wu=auto:ma=1"; path="/"; domain=.ecosia.org; path_spec; expires="2024-12-01 20:40:11Z"; SameSite=Lax; version=0
+Set-Cookie3: ECRQ=d182c4c3-c353-40e4-b245-8ab27dc4eb4d; path="/"; domain=.ecosia.org; path_spec; discard; SameSite=Lax; version=0
+Set-Cookie3: ECUNL=b03a23ef-3ce0-4255-ac83-1ddbc857e4b4; path="/"; domain=.ecosia.org; path_spec; expires="2023-12-31 20:40:10Z"; SameSite=Lax; version=0
+Set-Cookie3: __cf_bm="U2lOmLpTAKto6FanIYLyEj_HBoup0hcnIGWJCLHP0jk-1701463145-0-ATm6lr9EDA4tXlWplu1QMwsUVE52rcqQ55Vs3Linvr8+oV2f1d6Gx+AtRkvsvurO8WsR0zjSe08l36ocDyNfU0A="; path="/"; domain=.ecosia.org; path_spec; secure; expires="2023-12-01 21:09:05Z"; HttpOnly; SameSite=None; version=0
+Set-Cookie3: _cfuvid=WGpO0DzZCz4xVckwhOsaZZiq4v0WeDITq_ViJkCB6to-1701463145412-0-604800000; path="/"; domain=.ecosia.org; path_spec; secure; discard; HttpOnly; SameSite=None; version=0

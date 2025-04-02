@@ -1,0 +1,1 @@
+Das Perl-Programm macht die Verwendung von Regulären Ausdrücken interessant.
